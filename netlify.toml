@@ -11,3 +11,9 @@
 
   [plugins.inputs]
     enable = false
+    
+[[redirects]]
+  from = "https://somenetlifysite.netlify.app"
+  to = "https://mycustomdomain.com"
+  status = 301
+  force = true
