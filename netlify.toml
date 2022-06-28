@@ -11,9 +11,3 @@
 
   [plugins.inputs]
     enable = false
-    
-[[redirects]]
-  from = "https://candid-conkies-e99d17.netlify.app"
-  to = "http://thesmmgal.net"
-  status = 301
-  force = true
