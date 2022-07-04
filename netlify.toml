@@ -117,3 +117,9 @@
   to = "https://www.fiverr.com/search/gigs?query=tax%20for%20freelancer&source=top-bar&search_in=everywhere&search-autocomplete-original-term=tax%20for%20freelancer"
   status = 301
   force = true
+
+  [[redirects]]
+  from = "/17/"
+  to = "https://3536fhj6xms00-40fnjhbkes1d.hop.clickbank.net/?tid=2"
+  status = 301
+  force = true
