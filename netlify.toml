@@ -136,3 +136,9 @@
   status = 301
   force = true
   
+  [[redirects]]
+  from = "/20/"
+  to = "https://4edd8pt-mdr911vaf9snv2oz9k.hop.clickbank.net/?tid=5"
+  status = 301
+  force = true
+  
