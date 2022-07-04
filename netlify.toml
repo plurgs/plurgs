@@ -207,3 +207,9 @@
   to = "https://6f348qpbqgs8v5-osancke313f.hop.clickbank.net/?tid=10"
   status = 301
   force = true
+
+  [[redirects]]
+  from = "/32/"
+  to = "https://go.fiverr.com/visit/?bta=456298&brand=fiverrcpa&landingPage=https%3A%2F%2Fwww.fiverr.com%2Fsajjadahmad384%2Fcreate-excel-graphs-pivot-tables-dashboards-and-macros"
+  status = 301
+  force = true
