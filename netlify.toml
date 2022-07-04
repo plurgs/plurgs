@@ -190,4 +190,8 @@
   status = 301
   force = true
   
-  
+  [[redirects]]
+  from = "/29/"
+  to = "https://go.fiverr.com/visit/?bta=456298&brand=fiverrcpa&landingPage=https%3A%2F%2Fwww.fiverr.com%2Fbeforeverly%2Fwrite-a-custom-job-offer-letter-for-you"
+  status = 301
+  force = true
