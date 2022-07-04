@@ -177,3 +177,9 @@
   to = "https://go.fiverr.com/visit/?bta=456298&brand=fiverrcpa&landingPage=https%3A%2F%2Fwww.fiverr.com%2Fprosanto7%2Fdo-java-project-java-assignment-and-java-swing-task-using-netbeans-intellij"
   status = 301
   force = true
+
+  [[redirects]]
+  from = "/27/"
+  to = "https://go.fiverr.com/visit/?bta=456298&brand=fiverrcpa&landingPage=https%3A%2F%2Fwww.fiverr.com%2Fmegmarmed%2Fhelp-you-understand-your-medical-records-or-results"
+  status = 301
+  force = true
