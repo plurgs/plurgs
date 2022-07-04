@@ -183,3 +183,11 @@
   to = "https://go.fiverr.com/visit/?bta=456298&brand=fiverrcpa&landingPage=https%3A%2F%2Fwww.fiverr.com%2Fmegmarmed%2Fhelp-you-understand-your-medical-records-or-results"
   status = 301
   force = true
+  
+  [[redirects]]
+  from = "/28/"
+  to = "https://fa3cbbh3yor7515709ze3gdl5y.hop.clickbank.net/?tid=9"
+  status = 301
+  force = true
+  
+  
