@@ -53,3 +53,10 @@
   to = "https://www.fiverr.com/search/gigs?query=virtual%20assistant&source=top-bar&search_in=everywhere&search-autocomplete-original-term=virtual%20assistant"
   status = 301
   force = true
+
+  [[redirects]]
+  from = "/6/"
+  to = "https://go.fiverr.com/visit/?bta=456298&brand=fiverrcpa&landingPage=https%3A%2F%2Fwww.fiverr.com%2Fsearch%2Fgigs%3Fquery%3Dgraphic%2520artist%26source%3Dtop-bar%26search_in%3Deverywhere%26search-autocomplete-original-term%3Dgraphic%2520artist"
+  status = 301
+  force = true
+
