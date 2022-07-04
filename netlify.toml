@@ -149,7 +149,7 @@
   force = true
   
   [[redirects]]
-  from = "/21/"
+  from = "/22/"
   to = "https://677dbin7ofl-3zy0uqyikdenc7.hop.clickbank.net/?tid=6"
   status = 301
   force = true
