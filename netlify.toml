@@ -123,3 +123,9 @@
   to = "https://3536fhj6xms00-40fnjhbkes1d.hop.clickbank.net/?tid=2"
   status = 301
   force = true
+
+  [[redirects]]
+  from = "/18/"
+  to = "https://eca54lgzsgi2uu2b52h6fwep7f.hop.clickbank.net/?tid=3"
+  status = 301
+  force = true
