@@ -142,9 +142,14 @@
   status = 301
   force = true
   
-  
   [[redirects]]
   from = "/21/"
   to = "https://go.fiverr.com/visit/?bta=456298&brand=fiverrcpa&landingPage=https%3A%2F%2Fwww.fiverr.com%2Fsearch%2Fgigs%3Fquery%3Dshoppy%26source%3Dtop-bar%26search_in%3Deverywhere%26search-autocomplete-original-term%3Dshoppy"
+  status = 301
+  force = true
+  
+  [[redirects]]
+  from = "/21/"
+  to = "https://677dbin7ofl-3zy0uqyikdenc7.hop.clickbank.net/?tid=6"
   status = 301
   force = true
