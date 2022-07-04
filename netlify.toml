@@ -201,3 +201,9 @@
   to = "https://go.fiverr.com/visit/?bta=456298&brand=fiverrcpa&landingPage=https%3A%2F%2Fwww.fiverr.com%2Fsazrah4life%2Frecord-your-female-voice-over-with-british-accent"
   status = 301
   force = true
+
+  [[redirects]]
+  from = "/31/"
+  to = "https://6f348qpbqgs8v5-osancke313f.hop.clickbank.net/?tid=10"
+  status = 301
+  force = true
