@@ -303,3 +303,9 @@
   to = "https://go.fiverr.com/visit/?bta=456298&brand=fiverrcpa&landingPage=https%3A%2F%2Fwww.fiverr.com%2Fsearch%2Fgigs%3Fquery%3Dmath%2520tutor%26source%3Dtop-bar%26search_in%3Deverywhere%26search-autocomplete-original-term%3Dmath%2520tutor"
   status = 301
   force = true
+
+  [[redirects]]
+  from = "/48/"
+  to = "https://go.fiverr.com/visit/?bta=456298&brand=fiverrcpa&landingPage=https%3A%2F%2Fwww.fiverr.com%2Fsearch%2Fgigs%3Fquery%3Dshopify%2520website%26source%3Dtop-bar%26search_in%3Deverywhere%26search-autocomplete-original-term%3Dshopify%2520website"
+  status = 301
+  force = true
