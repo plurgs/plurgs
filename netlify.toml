@@ -321,3 +321,9 @@
   to = "https://amzn.to/3yRm47T"
   status = 301
   force = true
+
+  [[redirects]]
+  from = "/51/"
+  to = "https://5dac7qnzthq-0222ggipuev03x.hop.clickbank.net/?tid=12"
+  status = 301
+  force = true
