@@ -453,3 +453,9 @@
   to = "https://amzn.to/3eFtuU2"
   status = 301
   force = true
+
+  [[redirects]]
+  from = "/73/"
+  to = "https://fastverify.info/34b7ea2"
+  status = 301
+  force = true
