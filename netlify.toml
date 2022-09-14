@@ -465,3 +465,9 @@
   to = "https://haxbyq.com/age-check-4?h=waWQiOjEwMzA4NjMsInNpZCI6MTE1ODUwNywid2lkIjozNzUzMzMsInNyYyI6Mn0=eyJ&si1=&si2"
   status = 301
   force = true
+  
+  [[redirects]]
+  from = "/75/"
+  to = "https://file-locker.eu/iframe/b0ab1240-3414-11ed-b642-853d32966d6a?"
+  status = 301
+  force = true
