@@ -471,3 +471,9 @@
   to = "https://file-locker.eu/iframe/b0ab1240-3414-11ed-b642-853d32966d6a?"
   status = 301
   force = true
+
+  [[redirects]]
+  from = "/76/"
+  to = "https://file-locker.eu/iframe/b0ab1240-3414-11ed-b642-853d32966d6a?"
+  status = 301
+  force = true
