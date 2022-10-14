@@ -509,7 +509,7 @@
   force = true
 
   [[redirects]]
-  from = "/81/"
+  from = "/82/"
   to = "https://amzn.to/3evdT9L"
   status = 301
   force = true
