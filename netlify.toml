@@ -537,3 +537,10 @@
   to = "https://filezone.info/04ebd1a"
   status = 301
   force = true
+  
+  [[redirects]]
+  from = "/87/"
+  to = "https://amzn.to/3eww132"
+  status = 301
+  force = true
+  
