@@ -597,3 +597,9 @@
   to = "https://amzn.to/3rXXKwx"
   status = 301
   force = true
+
+  [[redirects]]
+  from = "/97/"
+  to = "https://amzn.to/3fZboNe"
+  status = 301
+  force = true
