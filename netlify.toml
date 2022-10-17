@@ -642,6 +642,12 @@
 
   [[redirects]]
   from = "/104/"
+  to = "https://amzn.to/3EPtvzO"
+  status = 301
+  force = true
+
+  [[redirects]]
+  from = "/105/"
   to = "https://amzn.to/3TuThgv"
   status = 301
   force = true
