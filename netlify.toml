@@ -850,10 +850,9 @@
   status = 301
   force = true
 
-  
   [[redirects]]
   from = "/139/"
-  to = "https://amzn.to/3gbKrWG"
+  to = "https://amzn.to/3CLFL1l"
   status = 301
   force = true
   
