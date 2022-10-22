@@ -1011,3 +1011,9 @@
   to = "https://amzn.to/3Sjsi6F"
   status = 301
   force = true
+
+  [[redirects]]
+  from = "/166/"
+  to = "https://amzn.to/3Sjsi6F"
+  status = 301
+  force = true
