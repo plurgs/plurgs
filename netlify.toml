@@ -32,7 +32,7 @@
   status = 301
   force = true
 
-[[redirects]]
+[[redirects]]1
   from = "/3/"
   to = "https://go.fiverr.com/visit/?bta=456298&brand=fiverrcpa&landingPage=https%3A%2F%2Fwww.fiverr.com%2Fsearch%2Fgigs%3Fquery%3Dmonte%2520carlo%26source%3Dtop-bar%26search_in%3Deverywhere%26search-autocomplete-original-term%3Dmonte%2520carlo"
   status = 301
@@ -690,7 +690,7 @@
 
   [[redirects]]
   from = "/112/"
-  to = "https://amzn.to/3T8pUkH"
+  to = "http://sale.dhgate.com/szYKLT30"
   status = 301
   force = true
 
