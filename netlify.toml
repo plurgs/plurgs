@@ -1065,3 +1065,9 @@
   to = "https://www.humblebundle.com/games/payday-2-ultimatescore-bundle?partner=ggdealz"
   status = 301
   force = true
+
+  [[redirects]]
+  from = "/175/"
+  to = "http://sale.dhgate.com/ijf0qe51"
+  status = 301
+  force = true
