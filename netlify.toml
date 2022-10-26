@@ -1083,3 +1083,9 @@
   to = "http://sale.dhgate.com/pI2gSB40"
   status = 301
   force = true
+  
+  [[redirects]]
+  from = "/178/"
+  to = "http://sale.dhgate.com/Yq8Uux24"
+  status = 301
+  force = true
