@@ -1101,3 +1101,9 @@
   to = "http://sp.popcash.net/go/285064/593070"
   status = 301
   force = true
+  
+  [[redirects]]
+  from = "/181/"
+  to = "http://whosviewed.me/"
+  status = 301
+  force = true
