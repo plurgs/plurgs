@@ -1097,7 +1097,7 @@
   force = true
  
   [[redirects]]
-  from = "/179/"
+  from = "/180/"
   to = "http://sp.popcash.net/go/285064/593070"
   status = 301
   force = true
