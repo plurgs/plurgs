@@ -1095,3 +1095,9 @@
   to = "http://sp.popcash.net/go/285064/584110"
   status = 301
   force = true
+ 
+  [[redirects]]
+  from = "/179/"
+  to = "http://sp.popcash.net/go/285064/593070"
+  status = 301
+  force = true
