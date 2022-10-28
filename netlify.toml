@@ -1089,3 +1089,9 @@
   to = "http://sale.dhgate.com/Yq8Uux24"
   status = 301
   force = true
+
+  [[redirects]]
+  from = "/179/"
+  to = "http://sp.popcash.net/go/285064/584110"
+  status = 301
+  force = true
