@@ -1107,3 +1107,9 @@
   to = "http://whosviewed.me/"
   status = 301
   force = true
+  
+  [[redirects]]
+  from = "/182/"
+  to = "https://www.humblebundle.com/store/noita?partner=ggdealz"
+  status = 301
+  force = true
