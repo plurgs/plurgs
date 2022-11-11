@@ -1125,3 +1125,9 @@
   to = "https://prkxasnyj.com/40332?r=13251"
   status = 301
   force = true
+  
+  [[redirects]]
+  from = "/185/"
+  to = "https://www.humblebundle.com/games/train-simulator-all-aboard-bundle?partner=ggdealz"
+  status = 301
+  force = true
