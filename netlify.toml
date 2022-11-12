@@ -1161,3 +1161,9 @@
   to = "https://www.humblebundle.com/store/payday-2-legacy-collection?partner=ggdealz"
   status = 301
   force = true
+
+  [[redirects]]
+  from = "/191/"
+  to = "https://www.humblebundle.com/store/resident-evil-village?partner=ggdealz"
+  status = 301
+  force = true
