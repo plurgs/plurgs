@@ -1155,3 +1155,9 @@
   to = "https://www.humblebundle.com/store/dark-souls-iii?partner=ggdealz"
   status = 301
   force = true
+
+  [[redirects]]
+  from = "/190/"
+  to = "https://www.humblebundle.com/store/payday-2-legacy-collection?partner=ggdealz"
+  status = 301
+  force = true
