@@ -1149,3 +1149,9 @@
   to = "https://www.humblebundle.com/store/grim-dawn?partner=ggdealz"
   status = 301
   force = true
+
+  [[redirects]]
+  from = "/189/"
+  to = "https://www.humblebundle.com/store/dark-souls-iii?partner=ggdealz"
+  status = 301
+  force = true
