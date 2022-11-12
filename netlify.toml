@@ -1137,3 +1137,9 @@
   to = "https://www.humblebundle.com/store/immortals-fenyx-rising?partner=ggdealz"
   status = 301
   force = true
+
+  [[redirects]]
+  from = "/187/"
+  to = "https://www.humblebundle.com/store/tiny-tinas-wonderlands?partner=ggdealz"
+  status = 301
+  force = true
