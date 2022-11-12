@@ -1131,3 +1131,9 @@
   to = "https://www.humblebundle.com/games/train-simulator-all-aboard-bundle?partner=ggdealz"
   status = 301
   force = true
+
+  [[redirects]]
+  from = "/186/"
+  to = "https://www.humblebundle.com/store/immortals-fenyx-rising?partner=ggdealz"
+  status = 301
+  force = true
