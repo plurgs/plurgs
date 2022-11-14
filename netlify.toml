@@ -1167,3 +1167,9 @@
   to = "https://www.humblebundle.com/store/cyberpunk-2077?partner=ggdealz"
   status = 301
   force = true
+
+  [[redirects]]
+  from = "/192/"
+  to = "https://afflat3d2.com/lnk.asp?o=16501&c=918277&a=403969&k=E9363E4E8F016346176E281951F8D1C8&l=17678"
+  status = 301
+  force = true
